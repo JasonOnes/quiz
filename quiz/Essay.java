@@ -1,4 +1,4 @@
-package org.launchcode;
+package org.launchcode.quiz;
 
 public class Essay extends Question {
 

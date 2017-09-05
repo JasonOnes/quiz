@@ -1,4 +1,6 @@
-package org.launchcode;
+package org.launchcode.quiz;
+
+import org.launchcode.quiz.Question;
 
 class MultipleChoice extends Question {
     private int numPicks;

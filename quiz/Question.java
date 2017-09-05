@@ -1,4 +1,4 @@
-package org.launchcode;
+package org.launchcode.quiz;
 
 import java.util.Arrays;
 
